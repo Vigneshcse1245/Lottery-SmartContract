@@ -3,4 +3,4 @@ A smart contract for Lottery System that detects and denies multiple entries res
 
 ## More Details
 lottery starts when the contract is deployed and lasts for 2 days
-after lottery ends the transaction occurs by transfer lottery function 
+after lottery ends the transaction occurs by transfer lottery function.
